@@ -1,0 +1,13 @@
+déjà de 1 merci d'utiliser notre bot crée par deadpool0430
+
+
+vous pouvez totalement le modifier donc crée des commandes sur le fichier !
+
+
+---
+
+Vous devrez exécuter la commande "pip install discord" dans votre invite de commande, puis ouvrir le fichier "main.py" (cmd : python main.py ) et le configurer selon vos besoins (n'oublie pas de mettre le token de ton bot !).
+
+Si vous trouvez le bot utile et que vous voulez me soutenir, je vous serais reconnaissant si vous pouviez mettre une petite étoile sur GitHub.
+
+N'hésitez pas à me faire part de vos commentaires et de vos suggestions sur le bot. J'espère qu'il vous sera utile !
